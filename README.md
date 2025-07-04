@@ -4,13 +4,13 @@ This is a simple and interactive web application that summarizes long pieces of 
 
 ---
 
-Demo
+## Demo
 
 Live App: [Link to Streamlit Cloud](https://text-summarizer-app-ec3bdvnpmk5se8vmrdfyvf.streamlit.app/)  
 
 ---
 
-Features
+## Features
 
 - Clean and user-friendly interface (Streamlit)
 - Supports both summarization methods:
@@ -21,7 +21,7 @@ Features
 
 ---
 
-Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
